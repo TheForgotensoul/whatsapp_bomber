@@ -49,10 +49,12 @@ python app.py
 
 # after the program started 
 Step 1: 
-Enter the required details like select a browser, victim name, number of time to spam a message, and finally the message to send.
+Enter the required details like select a browser, victim name, 
+number of time to spam a message, and finally the message to send.
 
 Step 2:
-After completing the step 1 you see that a browser window will open with whatsapp web just scan the Qr code and enjoy the magic happening.
+After completing the step 1 you see that a browser window will 
+open with whatsapp web just scan the Qr code and enjoy the magic happening.
 
 ```
 
