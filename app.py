@@ -53,13 +53,13 @@ drv = int(input("""
     2 > Chrome
     choose browser: """))
 
-target_name = input("enter the target name or group name: ")
+target_name = input("""
+enter the target name or group name
+(Remember the names are case sensitive so type exactly as the contact name...): """)
 num = int(input("enter the number of times to send the message: "))
-txt = input(f"""type the text to send (Remember the names are case sensitive
-so type exactly as the contact name...)
+txt = input(f"""type the text to send 
             OR
 type "emoji" to send random emojis ("Chrome browser does not support emojis"): """)
-
 
 try:
     app(target_name, num, txt, drv)
